@@ -1,10 +1,15 @@
-# Data_Science
+# Data Science
 
-### Education
+This repository is part of the Data Science Professional Certificate Program offered by IBM.
+The content of the course is divided in 10 courses:
 
-  * Bsc Mechanical Engineering - December 2020
-
-### Projects
-
-
-This my portfolio as a data scientist where you can find courses, lectures and projects about python programming, tools for data science like numpy, panda and atificial intelligence such as Machine Learning, Deep Learning, Reinforcement Learning  and more. I hope you can take advantage of that and I wish you all a happy learning!.
+1. What is Data Science?.
+2. Data Science Methodology
+3. Tools for Data Science.
+4. Python for Data Science, AI & Development.
+5. Python Project for Data Science.
+6. Databases and SQL for Data Science with Python.
+7. Data Analysis with Python.
+8. Data Visualization with Python.
+9. Machine Learning with Python.
+10. Applied Data Science Capstone
