@@ -1,7 +1,7 @@
-# Data Science
+# Data Science Professional Certificate - Specialization Program
 
 This repository is part of the Data Science Professional Certificate Program offered by IBM.
-The content of the course is divided in 10 courses but I am going to list the most relevant content of the program:
+The content of the course is divided in 10 courses, but I am going to list the most relevant content of the program and also I am going to add their respective code repositories:
 
 1. Python for Data Science, AI & Development.
 2. Python Project for Data Science.
